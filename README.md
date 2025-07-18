@@ -1,35 +1,39 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=🕹️%20Welcome%20to%20My%20Dev%20Zone!%20🕹️&fontSize=30&fontAlignY=40&desc=Level%201%20Programmer&descAlignY=70&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00FFE0&height=180&section=header&text=🕹️%20Welcome%20to%20My%20Dev%20Zone!%20🕹️&fontSize=32&fontAlignY=40&desc=Level%201%20Programmer%20Entering%20Cyber%20Realm&descAlignY=70&descAlign=62" />
 
-  <h2>🎮 Choose Your Character</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Python+Wizard;C+Warrior;Embedded+Dev;AI+Explorer" alt="Typing SVG" />
+  <br/>
 
-  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFF7&center=true&vCenter=true&width=460&lines=Python+Wizard;C+Warrior;AI+Explorer;Embedded+Adventurer" alt="Typing SVG" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=0l70&theme=onestar&no-frame=true&row=1&column=7" />
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=0l70&theme=monokai&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🧩 SKILL TREE
+## 🧩 Skill Tree
 
-```
-🗡️ Languages
-├── Python 🐍
-└── C 💻
+### 🗡️ Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-🛠️ Tools
-├── VSCode
-├── Git & GitHub
-├── Linux Terminal ⚙️
-└── Debugging Arts 🔍
+### 🛠️ Tools & Environment  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Debug](https://img.shields.io/badge/Debugging-Tools-yellow?style=flat)
 
-🧠 Side Quest Skills
-├── ROS2
-├── OpenCV
-└── Qt GUI Development
+---
+
+### 🧠 Side Quests  
+```yaml
+- 🔧 ROS2 (Robot Operating System)
+- 🧠 OpenCV (Vision + AI)
+- 🎨 Qt (Desktop GUI)
 ```
 
 ---
@@ -45,25 +49,29 @@
 
 ## 🗺️ CURRENT QUEST
 
-```markdown
-🎯 Goal: Deepen skills in Python, Databases, and Fullstack Development  
-🧪 Experimenting with: Web APIs, SQL Optimization, Scalable Architectures  
-📚 Learning: Flask, FastAPI, React, PostgreSQL  
-🔍 Exploring: Backend Infrastructure & DevOps Tools
+```yaml
+🎯 Focus: Python Mastery, Database Engineering, Fullstack Workflow  
+🧪 Tools in Progress: FastAPI, Flask, React, PostgreSQL  
+🔍 Interests: Backend Architecture, Cloud DevOps, Clean Code  
+🚀 Goal: Build Scalable, Maintainable Software for Real-World Use
 ```
 
 ---
 
-## 📫 SAVE GAME & CONTACT
+## 📫 SAVE POINT
 
-- 💌 Email: leekm486@gmail.com  
-- 🌐 Website: [   ]
-- 🧭 Discord: [   ]
-- 📦 Inventory: [   ]
+- 📧 Email: leekm486@gmail.com  
+- 🌐 Portfolio: [Coming Soon]  
+- 🧭 Discord: [Coming Soon]  
+- 📦 Inventory: [Coming Soon]  
 
 ---
 
-> 🕯️ *“Code is my sword, Debugging is my shield.”*  
-> ⏳ *“Loading new adventures... Stay tuned.”*
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" />
+> 🧘 *“Write code that feels like poetry.”*  
+> ⚔️ *“Debug with honor. Deploy with pride.”*
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6A00F4,100:00FFE0&height=100&section=footer" />
+
+</div>
