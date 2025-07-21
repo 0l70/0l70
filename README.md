@@ -12,7 +12,7 @@
 
 ```yaml
 Role: Developer in Progress
-Focus: Backend Development, AI Applications, Clean Code
+Focus: Database, AI, Fullstack Development
 Languages: Python, C
 Tools: Git, Linux, VSCode, Jupyter
 Current Stack: FastAPI, Flask, PostgreSQL, React
