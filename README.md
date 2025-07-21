@@ -48,9 +48,9 @@ Current Stack: FastAPI, Flask, PostgreSQL, React
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0l70&show_icons=true&theme=default&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l70&layout=compact&theme=default" height="170" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=0l70&show_icons=true&title_color=2E86C1&icon_color=2E86C1&text_color=34495E&bg_color=ffffff&rank_icon=github" height="170" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l70&layout=compact&title_color=2E86C1&text_color=34495E&bg_color=ffffff" height="170" /> 
 </p>
 
 ---
