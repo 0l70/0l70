@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0575E6&height=180&section=header&text=0l70&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%C3%97%20AI%20Engineer&descSize=18&descAlignY=58&descColor=d0eaff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0575E6&height=180&section=header&text=0l70&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Embedded%20%C3%97%20AI%20Engineer&descSize=18&descAlignY=58&descColor=d0eaff" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B9EFF&center=true&vCenter=true&width=500&lines=ROS2+%7C+PyTorch+%7C+OpenCV;Robotics+meets+AI;Doosan+Bootcamp+%C2%B7+SSAFY)](https://git.io/typing-svg)
-
 </div>
-
-<br/>
 
 <div align="center">
 
